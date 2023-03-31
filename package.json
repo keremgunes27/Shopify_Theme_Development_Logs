@@ -1,0 +1,19 @@
+{
+  "name": "shopify_theme_development_logs",
+  "version": "1.0.0",
+  "description": "[![Generic badge](https://img.shields.io/badge/course%20available%3F-yes-green.svg)](https://shields.io/)",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keremgunes27/Shopify_Theme_Development_Logs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keremgunes27/Shopify_Theme_Development_Logs/issues"
+  },
+  "homepage": "https://github.com/keremgunes27/Shopify_Theme_Development_Logs#readme"
+}
